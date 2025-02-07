@@ -1,0 +1,20 @@
+@relation accident_data
+
+@attribute Location {Urban, Rural}
+@attribute Weather {Sunny, Rainy, Cloudy, Foggy}
+@attribute Road_Condition {Dry, Wet, Icy, Slippery}
+@attribute Vehicle_Type {Car, Truck, Motorcycle, Bus}
+@attribute Injury_Severity {Minor, Severe, Fatal}
+@attribute Time_of_Day numeric
+
+@data
+Urban,Sunny,Dry,Car,Minor,8
+Rural,Rainy,Wet,Truck,Severe,15
+Urban,Cloudy,Dry,Motorcycle,Minor,12
+Rural,Foggy,Slippery,Bus,Fatal,18
+Urban,Sunny,Dry,Truck,Minor,9
+Rural,Cloudy,Wet,Car,Severe,17
+Urban,Foggy,Slippery,Motorcycle,Severe,21
+Rural,Rainy,Wet,Truck,Minor,14
+Urban,Sunny,Dry,Motorcycle,Minor,10
+Urban,Cloudy,Dry,Car,Severe,16
