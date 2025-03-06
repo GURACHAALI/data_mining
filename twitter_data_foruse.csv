@@ -1,0 +1,50 @@
+TextContent,SentimentScore,Likes,Retweets,Timestamp,UserAge,UserLocation,Hashtags,UserFollowers
+"Ruto’s housing plan is a game changer!",1,250,80,"2025-03-01 08:15:00",28,Nairobi,#HustlerNation,1500
+"Taxes too high under Ruto, enough!",-1,120,45,"2025-03-01 09:30:00",35,Mombasa,#RutoMustGo,800
+"Ruto’s speech today was inspiring.",1,300,100,"2025-03-01 14:00:00",22,Eldoret,#Ruto2025,2000
+"Economy still struggling, Ruto why?",-1,90,30,"2025-03-01 16:45:00",40,Kisumu,#Kenya,600
+"Hustler Fund helping small businesses.",1,180,60,"2025-03-02 10:20:00",30,Nakuru,#HustlerNation,1200
+"Ruto must address youth unemployment.",-1,150,50,"2025-03-02 12:00:00",25,Nairobi,#RutoMustGo,900
+"Proud of Ruto’s climate initiatives.",1,200,70,"2025-03-02 15:30:00",33,Kisii,#Ruto2025,1800
+"No change since Ruto took over.",-1,80,25,"2025-03-03 07:10:00",45,Meru,#Kenya,500
+"Ruto’s vision for Kenya is clear.",1,220,85,"2025-03-03 11:45:00",27,Nairobi,#HustlerNation,1400
+"Corruption still rife under Ruto.",-1,130,40,"2025-03-03 14:20:00",38,Mombasa,#RutoMustGo,700
+"Ruto’s roads are improving Kenya!",1,270,90,"2025-03-03 16:00:00",31,Nyeri,#BottomUp,1600
+"Why is Ruto silent on insecurity?",-1,140,55,"2025-03-03 18:30:00",29,Kisumu,#RutoMustGo,850
+"Ruto’s education reforms are working.",1,190,65,"2025-03-04 09:15:00",26,Nairobi,#Ruto2025,1300
+"High cost of living under Ruto.",-1,110,35,"2025-03-04 11:00:00",42,Eldoret,#Kenya,950
+"Supporting Ruto for 2025!",1,320,120,"2025-03-04 13:45:00",24,Nakuru,#HustlerNation,2200
+"Ruto’s promises are empty.",-1,100,30,"2025-03-04 15:20:00",37,Mombasa,#RutoMustGo,600
+"Ruto is transforming agriculture.",1,230,75,"2025-03-04 17:00:00",34,Kisii,#BottomUp,1700
+"Jobless youth blame Ruto.",-1,160,60,"2025-03-04 19:30:00",23,Nairobi,#RutoMustGo,1100
+"Ruto’s leadership is unmatched.",1,280,95,"2025-03-05 08:00:00",29,Meru,#Ruto2025,1900
+"Power cuts worse under Ruto.",-1,85,20,"2025-03-05 09:45:00",41,Nyeri,#Kenya,700
+"Ruto’s health plan is a win!",1,210,70,"2025-03-05 11:15:00",32,Eldoret,#HustlerNation,1500
+"Broken promises by Ruto.",-1,95,25,"2025-03-05 13:00:00",39,Kisumu,#RutoMustGo,800
+"Ruto’s youth programs are solid.",1,240,85,"2025-03-05 14:30:00",27,Nairobi,#BottomUp,1400
+"Inflation killing us, Ruto fix it!",-1,130,40,"2025-03-05 16:00:00",36,Mombasa,#Kenya,900
+"Ruto’s bottom-up approach works.",1,260,90,"2025-03-05 17:45:00",30,Nakuru,#HustlerNation,1600
+"Ruto’s housing levy is a scam.",-1,150,50,"2025-03-01 10:00:00",33,Nairobi,#RutoMustGo,1200
+"Love Ruto’s energy policies.",1,200,65,"2025-03-01 12:30:00",25,Kisii,#Ruto2025,1300
+"Ruto ignoring rural Kenya.",-1,110,35,"2025-03-01 15:15:00",44,Meru,#Kenya,600
+"Ruto’s trade deals are impressive.",1,230,80,"2025-03-01 17:00:00",28,Eldoret,#BottomUp,1700
+"Too much talk, Ruto, act now!",-1,140,45,"2025-03-02 08:45:00",31,Nyeri,#RutoMustGo,950
+"Ruto’s water projects are a success.",1,190,60,"2025-03-02 11:30:00",26,Nairobi,#HustlerNation,1400
+"Ruto failing on security.",-1,120,40,"2025-03-02 13:15:00",38,Mombasa,#Kenya,800
+"Kenya thriving under Ruto.",1,300,110,"2025-03-02 15:00:00",29,Nakuru,#Ruto2025,2100
+"Ruto’s tax hikes are unbearable.",-1,100,30,"2025-03-02 16:45:00",40,Kisumu,#RutoMustGo,700
+"Ruto’s vision inspires me.",1,220,75,"2025-03-03 09:00:00",24,Eldoret,#BottomUp,1500
+"No jobs despite Ruto’s promises.",-1,130,45,"2025-03-03 10:30:00",35,Nairobi,#Kenya,900
+"Ruto’s affordable housing is real.",1,250,85,"2025-03-03 12:15:00",27,Mombasa,#HustlerNation,1600
+"Ruto’s leadership is a disaster.",-1,90,25,"2025-03-03 14:00:00",43,Kisii,#RutoMustGo,600
+"Ruto’s tech push is promising.",1,210,70,"2025-03-03 15:45:00",30,Nakuru,#Ruto2025,1400
+"Cost of fuel up, thanks Ruto.",-1,140,50,"2025-03-04 08:30:00",32,Meru,#Kenya,1000
+"Ruto’s unity call is powerful.",1,270,95,"2025-03-04 10:15:00",28,Nairobi,#BottomUp,1800
+"Ruto neglecting healthcare.",-1,110,35,"2025-03-04 12:00:00",39,Eldoret,#RutoMustGo,800
+"Ruto’s farming support is great.",1,230,80,"2025-03-04 13:45:00",26,Kisii,#HustlerNation,1500
+"Unemployment worse under Ruto.",-1,120,40,"2025-03-04 15:30:00",34,Nyeri,#Kenya,900
+"Ruto’s infrastructure is top-notch.",1,260,90,"2025-03-05 09:00:00",29,Nairobi,#Ruto2025,1700
+"Ruto’s policies favor the rich.",-1,100,30,"2025-03-05 10:45:00",41,Mombasa,#RutoMustGo,700
+"Ruto’s education plan is brilliant.",1,240,85,"2025-03-05 12:30:00",27,Nakuru,#BottomUp,1600
+"Living costs soaring, Ruto out!",-1,130,45,"2025-03-05 14:15:00",36,Kisumu,#Kenya,950
+"Ruto’s hustler dream is alive.",1,280,100,"2025-03-05 16:00:00",25,Eldoret,#HustlerNation,2000
